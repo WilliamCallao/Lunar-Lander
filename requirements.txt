@@ -4,3 +4,20 @@ matplotlib
 gradio
 opencv-python
 pillow
+pip install gymnasium[mujoco]
+
+
+
+
+pip uninstall mujoco gymnasium stable-baselines3
+pip install mujoco==2.2.1
+pip install gymnasium==0.27.1
+pip install stable-baselines3==1.7.0
+
+
+
+
+
+pip install --upgrade gymnasium
+pip install --upgrade stable-baselines3
+pip install mujoco==2.3.3
