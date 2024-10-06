@@ -1,5 +1,9 @@
+// ENTORNO VIRTUAL
 python -m venv env
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\env\Scripts\Activate
-
-
+// DEPENDENCIAS
+pip install swig 
 pip install gymnasium[box2d]
+pip install stable_baselines3==2.3.2
+pip install tensorflow==2.17.0

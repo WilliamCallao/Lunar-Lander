@@ -1,4 +1,0 @@
-pip install gymnasium
-pip install keras
-pip install keras-rl2
-pip install tensorflow

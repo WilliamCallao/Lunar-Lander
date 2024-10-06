@@ -4,7 +4,7 @@ import os
 import sys
 
 def main():
-    MODEL_PATH = "100000"
+    MODEL_PATH = "trained_model_1M"
 
     if not os.path.exists(f"{MODEL_PATH}.zip"):
         print(f"Error: El modelo '{MODEL_PATH}.zip' no existe. Asegúrate de haber entrenado y guardado el modelo antes de ejecutar este script.")
