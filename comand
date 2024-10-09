@@ -1,7 +1,7 @@
 // ENTORNO VIRTUAL
 python -m venv env
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\env\Scripts\Activate
+.\env2\Scripts\Activate
 // DEPENDENCIAS
 pip install swig 
 pip install gymnasium[box2d]
