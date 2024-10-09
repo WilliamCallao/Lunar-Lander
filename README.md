@@ -11,12 +11,10 @@ Este proyecto demuestra la evolución del entrenamiento de un modelo de aprendiz
 - **Scripts**: Archivos Python para entrenar y visualizar el modelo de Lunar Lander utilizando diferentes enfoques (TensorFlow, Stable-Baselines3, etc.).
 
 ## GIFs del Lunar Lander
-
-### Antes del Entrenamiento
-![No Entrenado](assets/a.gif)
-
-### Después del Entrenamiento
-![Entrenado](assets/b.gif)
+<p align="center">
+  <img src="assets/a.gif" alt="No Entrenado" width="45%">
+  <img src="assets/b.gif" alt="Entrenado" width="45%">
+</p>
 
 Los GIFs ilustran el rendimiento del agente antes y después del entrenamiento, destacando la mejora en las habilidades de aterrizaje.
 
