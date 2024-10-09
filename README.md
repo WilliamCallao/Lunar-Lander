@@ -56,7 +56,3 @@ Este proyecto requiere las siguientes bibliotecas de Python:
 - `gymnasium`
 - `stable_baselines3`
 - `tensorflow`
-
-## Descripción del Proyecto
-
-El proyecto Lunar Lander sirve como demostración del aprendizaje por refuerzo aplicado a un problema clásico de control. El objetivo es aterrizar una nave espacial lo más suavemente posible en una superficie lunar, minimizando el uso de combustible.
